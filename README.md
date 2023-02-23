@@ -1,2 +1,3 @@
 # To-Do Project
- JavaScript ile geliştirilmiş To-Do uygulaması
+
+ To-Do application developed with JavaScript
